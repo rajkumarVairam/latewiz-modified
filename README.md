@@ -21,11 +21,15 @@
 
 ## Quick Start
 
-### Option 1: One-Click Deploy (Recommended)
+### Option 1: Deploy to Cloudflare Pages (Recommended)
+
+See [CLOUDFLARE_DEPLOYMENT.md](./CLOUDFLARE_DEPLOYMENT.md) for complete deployment instructions using GitHub Actions.
+
+### Option 2: One-Click Deploy to Vercel
 
 Click the "Deploy with Vercel" button above, enter your [Late API key](https://getlate.dev/dashboard/api-keys), and you're done.
 
-### Option 2: Local Development
+### Option 3: Local Development
 
 ```bash
 # Clone the repository

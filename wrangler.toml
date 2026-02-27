@@ -1,0 +1,7 @@
+name = "latewiz-modified"
+compatibility_date = "2025-01-01"
+compatibility_flags = ["nodejs_compat"]
+
+[[services]]
+binding = "WORKER_SELF_REFERENCE"
+service = "latewiz-modified"

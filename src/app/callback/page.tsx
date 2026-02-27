@@ -1,3 +1,5 @@
+export const runtime = 'edge';
+
 import { Suspense } from "react";
 import { CallbackClient } from "./_components/callback-client";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
